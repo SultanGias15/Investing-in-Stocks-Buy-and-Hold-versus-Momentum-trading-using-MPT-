@@ -1,1 +1,3 @@
-# Investing-in-Stocks-Buy-and-Hold-versus-Momentum-trading-using-MPT-
+# Investing-in-Stocks-Buy-and-Hold-versus-Momentum-trading-using-MPT- 
+
+This Project defines... 
